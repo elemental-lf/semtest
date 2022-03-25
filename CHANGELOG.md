@@ -1,5 +1,9 @@
 <!--next-version-placeholder-->
 
+## v0.12.1 (2022-03-25)
+### Fix
+* Asdasdadsad ([`4d79525`](https://github.com/elemental-lf/semtest/commit/4d79525923305562f15ade3db2338f9e65ee7a0c))
+
 ## v0.12.0 (2022-03-25)
 
 

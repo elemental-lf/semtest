@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-__version__ = "0.12.0"
+__version__ = "0.12.1"
 
 setup(name='semtest',
       version=__version__,
